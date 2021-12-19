@@ -1,14 +1,14 @@
 
 
 body {
-    background-color: #203d03;
+    background-color: #c5c5c5;
 }
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #17465e;
-    color: #2a607c;
+    color: #ffffff;
 }
 
 .header h1 {
@@ -17,7 +17,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #2a607c;
+    color: #969aa1;
 }
 
 .header div {
@@ -38,16 +38,16 @@ body {
 }
 
 a {
-    color: #6d0303;
+    color: #ffffff;
     text-decoration: none;
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .hero {
-    padding: 60px;
+    padding:400px;
     margin:auto auto 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
@@ -75,30 +75,32 @@ p {
     padding: 20px;
     clear: both;
     float: right;
+    position:absolute; right:20px; bottom: -1165px;
     width: 20%;
-    height: 100%;
+    height: 110%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
 .benefit-lead {
-    margin-bottom: 32px;
-    color: #740d0d;
+    margin-bottom: 50px;
+    color: #f8f8f8;
 }
 
 .benefit-brand {
-    margin-bottom: 32px;
-    color: #02007c;
+    margin-bottom: 50px;
+    color: #ffffff;
 }
 
 .benefit-cost {
-    margin-bottom: 32px;
-    color: #4c9c00;
+    margin-bottom: 50px;
+    color: #f7f7f7;
 }
 
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
+    
 }
 
 .benefit-brand h3 {
@@ -113,24 +115,25 @@ p {
 
 .benefit-lead img {
     display: block;
-    margin: 10px auto;
+    margin: 50px auto;
     max-width: 150px;
 }
 
 .benefit-brand img {
     display: block;
-    margin: 10px auto;
+    margin: 50px auto;
     max-width: 150px;
 }
 
 .benefit-cost img {
     display: block;
-    margin: 10px auto;
+    margin: 50px auto;
     max-width: 150px;
 }
 
 .search-engine-optimization {
     margin-bottom: 20px;
+  margin-right: 50px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -140,6 +143,7 @@ p {
 
 .online-reputation-management {
     margin-bottom: 20px;
+    margin-right: 50px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -149,6 +153,7 @@ p {
 
 .social-media-marketing {
     margin-bottom: 20px;
+    margin-right: 50px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
